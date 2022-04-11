@@ -35,8 +35,6 @@ least replacement files that would replace where those files go. For example,
 if you wanted to change the Mario spriteset, set the file under "# mario car"
 as your replacement file, but do not touch anything else. Put the asset files
 in 1991_alpha/DATA.
-If you would like the files I used, contact me directly through discord
-	MrL314#8106
 		
 
 
